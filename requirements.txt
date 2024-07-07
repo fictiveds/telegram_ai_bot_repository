@@ -1,0 +1,7 @@
+aiogram
+asyncpg
+httpx
+openai
+SQLAlchemy
+databases
+python-dotenv
